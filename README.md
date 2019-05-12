@@ -28,8 +28,8 @@ Add additional notes about how to deploy this on a live system -->
 ## Built With
 
 * [python](https://www.python.org/) - Programming Language
-* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) - download HTML and other files
-* [requests]([http://docs.python-requests.org/en/master/](http://docs.python-requests.org/en/master/)) - web-scraping library is used for parsing HTML 
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) - web scraping library is used for parsing HTML
+* [requests](http://docs.python-requests.org/en/master/) - download HTML and other files
 
 ## Authors
 
